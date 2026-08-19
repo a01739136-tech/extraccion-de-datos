@@ -1,0 +1,676 @@
+,BDC ,Fecha,Nombre Cliente ,Telefono ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado,¿Por que no ha visitado la agencia?,¿Por que no hay solicitud de credito?,¿Por que no hubo prueba de manejo ?,¿Por que no hubo proceso wow?,¿Por que se asigno antes de vistar piso?
+0,Saul ,2030-06-19 00:00:00,Guillermo ,Sin Telefono,Finalizado ,0.9,1.0,0.0,0.0,Nancy,"Ya visito la Agencia  el dia jueves 17, interesado en GN8 PHEV ","Pide arrendamiento, unicamente se esta en espera de contacto con el contador, posibilidad de compra 90%","Si, hizo prueba de manejo ","Si recibio procesos wow, estuvo en la agencia mas de 3hrs ","No, se espero a que visitara la agencia para ser asignado "
+1,Saul ,2030-06-19 00:00:00,Roberto ,Sin Telefono,Finalizado ,0.4,0.0,0.0,0.0,Victor ,Ya visito la Agencia  el dia 3 de abril ,Por que primero queria manejar las unidad ,No habia unidad GS8 HEV para prueba de manejo ,"Si recibio procesos wow, sin embargo no quizo nada de lo que se le ofrecio como amenidad ",Se asigno hasta que visitara Piso 
+2,Saul ,2030-06-19 00:00:00,Irving ,Sin Telefono,Finalizado ,0.85,0.0,0.0,0.0,Alan ,Ya visito la agencia el dia 21 de abril ,"Firmo solicitud, sin embargo despues comento que seria contado solo que venta su auto, ya esta en proceso de venta ",Por que no habia unidad para prueba de manejo ,"Si se realizo el proceso wow, los clientes se quedaron hasta las 9:00 PM",Se asigno hasta que visitara Piso 
+3,Saul ,2030-06-19 00:00:00,Oswaldo ,Sin Telefono,Venta ,0.9,0.0,0.0,1.0,Mauricio ,El cliente vive en Tabasco Villahermosa,Sera compra de contado,"Ya la manejo en Villahermosa, sin embargo por promocion y disponibilidad la comprara con nosotros","Las veces que se le ha marcado, agradece mucho la atencion por BDC y por el seguimiento continuo","Necesitabamos sacar el apartado, por eso se asigno antes, quedo de depositar el 23 de abril "
+4,Saul ,2030-06-19 00:00:00,Rodrigo ,Sin Telefono,Finalizado ,0.9,1.0,0.0,0.0,Mauricio ,"Visito la agencia el mes pasado, y nos visita nuevamente el 23 de abril ",Hoy visita nuevamente la agencia y se firma solicitud ,"La primera vez que nos visito, realizo PDM",Si recibio el proceso wow la primera vez que nos visito ,"Se asigno hasta que visitara Piso  la primera vez, y se da nuevamnete el seguimiento con ese asesor "
+5,Saul ,2030-06-19 00:00:00,Antonio,Sin Telefono,Activo ,0.85,1.0,1.0,0.0,Mauricio ,Visito la agencia el dia 13 de abril,Si hubo solicitud de credito ,Si realizo prueba de manejo ,"Lo resivio por parte del asesor, ya que el dia domingo la Hosstes descansa ",Se asigno hasta que visitara Piso 
+6,Saul ,2030-06-19 00:00:00,Juan Carlos,Sin Telefono,Finalizado ,0.2,0.0,0.0,0.0,Ricardo ,"Se programo la visita dos dias, pero nunca asistio ",Comento que firmaba en cuando visitara la agencia ,No visito la agencia ,El el proceso de BDC siempre hubo la atencion adecuada y seguimiento ,Se asgino antes por recomendacion de Gerencia de ventas 
+7,Saul ,2030-06-19 00:00:00,Jose Alfredo ,Sin Telefono,Finalizado ,0.5,1.0,0.0,0.0,Mauricio ,Visito la agencia el dia 13 de abril,Se le compartio cotizacion de arrendamiento sin embargo comenta que saldria del estado y posteriormente se comunicaria ,Se realizo PDM en EMkOO HEV,Si hubo por parte del asesor,Se asigno hasta que visitara Piso 
+8,Saul ,2030-06-19 00:00:00,Jacinto ,Sin Telefono,Finalizado ,0.8,0.0,0.0,0.0,Nancy,No ha visitado la agencia por temas de trabajo ,"Se esta trabajando en ello, sin embargo el cliente tarda en responder",Por que no ha visitado la agencia ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas 
+9,Saul ,2030-06-19 00:00:00,Felipe ,Sin Telefono,Finalizado ,0.8,1.0,0.0,0.0,Alan ,Se le complicaba asitir sin embargo se le llevo la unidad a su casa,Por que comenta que lo esta platicando con su esposa y da respuesta esta semana ,Si hubo prueba de manejo a domicilio ,"Si lo hubo por parte dell asesor, quedo muy contento ",Se asgino antes por recomendacion de Gerencia de ventas
+10,Saul ,2030-06-19 00:00:00,Luz Mercedes,Sin Telefono,Venta ,1.0,1.0,1.0,1.0,Mauricio ,Si visito la agencia ,Si hubo solicitud de credito ,Si realizo prueba de manejo ,Si  recibio el proceso wow,Se asigno hasta que visitara Piso 
+11,Antonio,2030-06-19 00:00:00,Enrique,Sin Telefono,Finalizado ,0.8,1.0,1.0,0.0,Alan ,Cita efectiva,capacidad de pago,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+12,Saul ,2030-06-19 00:00:00,Esteban ,Sin Telefono,Finalizado ,0.6,0.0,0.0,0.0,Aurelio ,No ha visitado la agencia por que primero queria saber estatus de su credito ,"El cliente esta en toda la disposicion de  compartir papeles, pero se asigno a asesor y el lead dejo de dar respuesta ",No concreto cita efectiva el vendedor ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas
+13,Saul ,2030-06-19 00:00:00,Ramon ,Sin Telefono,Finalizado ,0.9,1.0,1.0,0.0,Eduardo ,Ya la visito anteriormente sin embargo este mes aun no ,Hay credito autorizado ,"Ya hizo prueba de manejo, en mes anterior ",El cliente esta muy satisfecho con la atencion por parte de BDC y APV,Se asigno hasta visita en Plaza angelopolis 
+14,Saul ,2030-06-19 00:00:00,Jose de Jesus ,Sin Telefono,Finalizado ,0.6,1.0,0.0,0.0,Alan ,Ya visito la agencia,El apv comenta que no tiene forma de demostrat ingresos ,No quizo realizar su prueba de manejo ,Se realizo el proceso wow por parte del asesor ,Se asigno hasta que visitara Piso 
+15,Saul ,2030-06-19 00:00:00,Mugdel Janer Morales,Sin Telefono,Venta ,0.8,0.0,1.0,0.0,Victor ,Ya  visito la agencia,Esta en analisis,"No tenia tiempo, comenta tener prisa",Recibio la atencion,Se asigna en la visita
+16,Antonio,2030-06-19 00:00:00,Carlos Alberto Rios,Sin Telefono,Activo ,0.8,0.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ingresan por Mstar,No trajo licencia,Recibio la atencion,Se asigna en la visita
+17,Antonio,2030-06-19 00:00:00,Vicente Cortes  ,Sin Telefono,Finalizado ,0.6,1.0,0.0,0.0,Alan ,Ya visito la agencia,Comento mandar papeles y dejo de contestar,No responde,No responde,No responde
+18,Antonio,2030-06-19 00:00:00,Angel  ,Sin Telefono,Venta ,1.0,1.0,1.0,1.0,pedro,ya visito la agencia,compro de contado,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+19,Antonio,2030-06-19 00:00:00,Jorge Luis Nunez ,Sin Telefono,Activo ,0.8,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,Primero quiere que la vea su esposa,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+20,Antonio,2030-06-19 00:00:00,Mercy,Sin Telefono,Finalizado ,0.2,1.0,0.0,0.0,pedro,ya visito la agencia,"No quizo, solo queria boletos del cine",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+21,Antonio,2030-06-19 00:00:00,Antonio Rodriguez,Sin Telefono,Activo ,0.8,1.0,0.0,0.0,Alan ,ya visito la agencia,"ya ingreso, le faltan mas estados de cuenta",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+22,Antonio,2030-06-19 00:00:00,Juan Colotl  ,Sin Telefono,Activo ,0.7,0.0,1.0,0.0,Laura,ya visito la agencia,Ya se ingreso esta en analisis,Se le ofrecio pero no quizo,Recibio la atencion,Se asigna en la visita
+23,Antonio,2030-06-19 00:00:00,Samuel Salamanca,Sin Telefono,Acitvo ,0.8,0.0,0.0,0.0,pedro,ya visito la agencia,Quizo conocer primero la unidad,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+24,Antonio,2030-06-19 00:00:00,Christoph Vega,Sin Telefono,Activo ,0.8,0.0,0.0,0.0,Mauricio ,ya visito la agencia,"solo vio la unidad, su bb estubo desinquieta decidieron retirarse",su bb estubo desinquieta decidieron retirarse,Recibio la atencion,Se asigna en la visita
+25,Saul ,2030-06-19 00:00:00,Jose Campos ,Sin Telefono,Activo ,0.7,0.0,1.0,0.0,Ricardo ,Ya visito la agencia el dia 24 de abril ,"Es arrendamiento, y esta solo en decidir la unidad ","La unidad no estaba en la agencia, y no habia GS4 habilitada para PDM",Si recibio la atencion ,Por indicaciones de gerencia de ventas
+26,Saul ,2030-06-19 00:00:00,Roberto Luis Pacheco,Sin Telefono,Activo ,0.4,0.0,0.0,0.0,Pedro,"Ya visito la agencia, llego desde Oaxaca ",Comenta que la unidad ,Le gusto la unidad pero comenta que no es para el ,Recibio la atencion ,Se asigno hasta que visitara Piso 
+27,Antonio,2030-06-19 00:00:00,Carlos  Texis  Rodriguez  ,Sin Telefono,Venta ,1.0,1.0,1.0,1.0,Alan ,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+28,Antonio,2030-06-19 00:00:00,Javier Pazos,Sin Telefono,Acitvo ,0.7,1.0,1.0,0.0,Eduardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,No responde
+29,Antonio,2030-06-19 00:00:00,Roberto Portilla,Sin Telefono,Activo ,0.7,0.0,0.0,0.0,Victor ,Ya visito la agencia,No responde,No responde,No responde,Se asigna en la visita
+30,Antonio ,2030-06-19 00:00:00,Julian marin castillo,Sin Telefono,Activo ,0.8,1.0,0.0,0.0,Aurelio ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,No responde,No responde
+33,MAYO,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+34,Antonio,2030-06-19 00:00:00,Edgar Becerril,Sin Telefono,Venta,0.8,1.0,1.0,1.0,Ricardo ,Ya visito la agencia,"No tenia tiempo, quedo de mandar la informacion",Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+35,Antonio,2030-06-19 00:00:00,Quetzalli Fernanda,Sin Telefono,Acitvo ,0.8,1.0,1.0,0.0,Ricardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,No responde
+36,Saul ,2030-06-19 00:00:00,Antonio ,Sin Telefono,Finalizado,0.9,1.0,0.0,2.0,Mauricio ,Visito la Agencia el dia 1 de Mayo ,Por que primero quiere vender su sentra,Realizo PDM en Emkoo,Si hubo por parte del asesor,Se asigna en la visita
+37,Saul ,2030-06-19 00:00:00,Estela Hernandez,Sin Telefono,Finalizado ,0.7,1.0,1.0,0.0,Mauricio ,Visito Custom 2 veces para ver emzoom ,Ya lleno la solicitud de credito ,Ya se realizo prueba de manejo en Apizaco ,Recibio la atencion ,Ocupa asesoria tecnica y visita en tlaxcala 
+38,Saul ,2030-06-19 00:00:00,Arturo Sanchez ,Sin Telefono,Finalizado ,0.9,1.0,1.0,0.0,Referido Pablo,Nos visita el dia de hoy ,lleno papeles para credito ,Si hubo prueba de manejo ,Recibio la atencion ,Lead referido pero tratado en Digital
+39,Antonio,2030-06-19 00:00:00,Anselmo Villarreal Rodas,Sin Telefono,Finalizado,0.7,1.0,1.0,0.0,Eduardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+40,Antonio,2030-06-19 00:00:00,Andres Fernandez Martinez ,Sin Telefono,Finalizado,0.9,1.0,0.0,0.0,Eduardo ,Lo visitamos en su casa,Ya se ingreso solicitud,Espera GS8 H,No responde,No responde
+41,Saul ,2030-06-19 00:00:00,Ulises Alejo ,Sin Telefono,Finalizado ,0.8,1.0,0.0,0.0,Nancy,Ya visito la agencia el dia domingo 11,Ya se paso a precalificar ,Si hizo prueba de manejo y le encanto la unidad ,Recibio la atencion ,Se asigno hasta el momento de la visita 
+42,Saul ,2030-06-19 00:00:00,Jose alberto ,Sin Telefono,Finalizado ,0.7,0.0,0.0,0.0,Aurelio ,Ya nos visito el dia 12 de mayo ,No quizo dejar INE pero asegura que compra ,Si realizo prueba de manejo ,Recibio la atencion,Se asigno hasta el momento de la visita 
+43,Saul ,2030-06-19 00:00:00,Adilene Ruiz,Sin Telefono,Venta,0.9,1.0,1.0,1.0,Mauricio ,Ya nos visito el dia 13 de mayo,Ya hay solicitud aprobada por Mstart ,Si realizo prueba de manejo ,Recibio la atencion,Se asgino hasta la visita en piso 
+44,Saul ,2030-06-19 00:00:00,Gerardo garcia ,Sin Telefono,Finalizado,0.6,1.0,0.0,2.0,Eduardo ,Ya nos visito el dia 13 de mayo ,Pide que su mensualidad no exceda los 6mil ,Si hubo prueba de manejo,"recibio la atencion, se fue muy contento ",Se asigno hasta el momento de la visita 
+45,Saul ,2030-06-19 00:00:00,Erick Calderón,Sin Telefono,Finalizado ,0.8,1.0,0.0,0.0,Ricardo ,Ya nos visito el dia  14 de mayo,Es arrendamiento y se esta en espera de contacto,No habia unidad GS8 disponible en la agencia ,Recibio la atencion ,Se asgino hasta la visita en piso 
+46,Saul ,2030-06-19 00:00:00,Jose Luis,Sin Telefono,Venta,0.95,1.0,1.0,1.0,Victor ,Ya nos visito el dia 17 de mayo,No quiso dejar solicitud firmada,Si hubo prueba de manejo ,Si recibio la atencion ,Se asigna hasta la visita a piso
+47,Saul ,2030-06-19 00:00:00,Cesar  Aguilar,Sin Telefono,Venta,0.8,1.0,1.0,1.0,Victor ,El cliente es de Veracruz ,Ya hay credito aprobado,El cliente es de Verazruz,ha recibido la atencion correcta ,Para seguimiento a distancia por el Apv
+48,Saul ,2030-06-19 00:00:00,Christian ,Sin Telefono,Venta,0.8,1.0,0.0,0.0,Aurelio ,"Ya nos visito, y comenta que nos visitara nuevamnete el dia sabado 24 de mayo",Sera compra de contado ,Se le incistio pero no quizo ,Si recibio la atencion ,Se asigna hasta la visita a piso
+49,Antonio,2030-06-19 00:00:00,Diego Cabrejiz,Sin Telefono,Activo,0.8,1.0,0.0,1.0,Nancy,Ya visito la agencia,Sera compra de contado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+50,Antonio,2030-06-19 00:00:00,Sergio Osorno,Sin Telefono,Acitvo ,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+51,Antonio,2030-06-19 00:00:00,Jossmarr Csm Gil,Sin Telefono,Activo,0.7,1.0,1.0,0.0,Pedro/Eduardo,Ya visito la agencia,Quiere que vea la unidad su esposa,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita
+52,Saul ,2030-06-19 00:00:00,Pedro Bello,Sin Telefono,Venta,0.8,1.0,1.0,1.0,CASA ,"Visito la agencia y no habia asesor lo atiende pablo, lead del mes de abril ",ya hay solicitud aprobada,Si realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita
+53,Antonio,2030-06-19 00:00:00,Herrera Erick/Maria del Carmen,Sin Telefono,Venta,0.75,1.0,1.0,1.0,Pedro,ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+54,Saul ,2030-06-19 00:00:00,David,Sin Telefono,Acrivo,0.9,1.0,1.0,0.0,Aurelio ,Nos visito el dia 27 de Mayo,Ya dejo todo para solicitud ,Realizo PDM en Emkoo,Recibio la atencion,Se asigna en la visita
+55,Antonio,2030-06-19 00:00:00,Lia Vera,Sin Telefono,Venta,0.85,1.0,1.0,1.0,Victor ,Ya visito la agencia,ya tiene credito autorizado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+56,Antonio,2030-06-19 00:00:00,Francisco Mier,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Victor ,Ya visito la agencia,No responde,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita
+57,Antonio,2030-06-19 00:00:00,Ricardo Pedraza Perez  ,Sin Telefono,Activo,0.9,1.0,1.0,1.0,Aurelio ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita
+58,Antonio/Saul ,2030-06-19 00:00:00,Clementina ,Sin Telefono,Venta,0.85,1.0,1.0,1.0,Ricardo ,Lead de base de datos ,Ya ingreso y se autorizo,Si hubo PDM ,recibio la atencion ,Lead de base de datos 
+59,Antonio/Saul ,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+60,JUNIO,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+61,Saul ,2030-06-19 00:00:00,Aldo Segura ,Sin Telefono,Finalizado ,0.8,1.0,1.0,0.0,Ricardo ,Nos visito el dia 03 de Mayo,Si hubo solicitud sin embargo salio rechazada,Si hay prueba de manejo ,Recibio la atenciao,Se asigna en la visita
+62,Antonio,2030-06-19 00:00:00,Vladimir,Sin Telefono,activo,0.7,1.0,0.0,0.0,Pedro,Ya visito la agencia,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+63,Antonio ,2030-06-19 00:00:00,Daniel,Sin Telefono,Acitvo ,0.8,1.0,0.0,0.0,Sergio Raymundo,Ya visito la agencia Custom,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+64,Saul,2030-06-19 00:00:00,Francisco Santander ,Sin Telefono,Finalizado,0.9,1.0,0.0,0.0,Alan,Nos visito el dia 08 de junio ,Pretende compra de contado ,Realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita
+65,Saul ,2030-06-19 00:00:00,Dulce Elizabeth ,Sin Telefono,Activo ,0.9,1.0,1.0,1.0,Pedro,Nos visito el dia viernes 13 de junio ,Ya esta en analisis ,Si hubo prueba de manejo,Recibio la atencion ,Se asgino hasta la visita en piso 
+66,Saul ,2030-06-19 00:00:00,Fernando ,Sin Telefono,Venta ,0.9,1.0,1.0,1.0,Alan ,"Nos visito en plaza, ya deposito apartado ",Ya se esta trabajando ,En proceso,Recibio la atenciao,Se asigna por seguimiento
+67,Antonio,2030-06-19 00:00:00,Sergio Figueroa,Sin Telefono,Venta ,0.85,1.0,1.0,1.0,Sergio Raymundo,Ya visito la agencia,ya esta aprobada,Ya realizo prueba de manejo,Recibio la atencion,Se reasigno por seguimiento
+68,Antonio,2030-06-19 00:00:00,Osvaldo Peña ,Sin Telefono,Acitvo ,0.75,1.0,1.0,0.0,Ricardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+69,Saul ,2030-06-19 00:00:00,Aldo Perz ,Sin Telefono,Activo ,0.8,0.0,0.0,0.0,Mauricio ,Ya nos visito el dia sabado 14 de junio ,Ya tiene credito aprobado en dorada ,Ya realizo prueba de manejo,Recibio la atencios ,Se asigna en la visita
+70,Saul ,2030-06-19 00:00:00,David ,Sin Telefono,Venta ,0.9,1.0,0.0,1.0,Pedro ,Ya nnos visito su esposa el dia 17 ,El esposo viene el viernes y nos deja papeles ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+71,Saul ,2030-06-19 00:00:00,Manuel Portillo,Sin Telefono,Finalizado ,0.7,0.0,0.0,0.0,Gerencia ,Nos visito el dia 16 de junio,Ya hay solicitud de credito ,Si hubo prueba de manejo,Recibio la atenciao,Se asgino hasta la visita en piso 
+72,Antonio,2030-06-19 00:00:00,Jaime Juarez,Sin Telefono,Acitvo ,0.05,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+73,Antonio,2030-06-19 00:00:00,Pedro Jesus  Pestana Castillo ,Sin Telefono,Acitvo ,0.7,1.0,1.0,0.0,Victor ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+74,Antonio,2030-06-19 00:00:00,Maximo Fernandez/Fabiana,Sin Telefono,Venta ,0.9,1.0,1.0,1.0,Pedro ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+75,Saul ,2030-06-19 00:00:00,Anabell,Sin Telefono,Venta,0.9,1.0,1.0,1.0,Pedro,Lead de mes atras ,Ya esta en proceso,Ya se realizo prueba de manejo,Recibio la atenciao,Se asigna por que se conocio en plaza 
+76,Antonio,2030-06-19 00:00:00,Benjamin/ Element empresa,Sin Telefono,Venta ,0.9,1.0,1.0,1.0,Alan,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+77,Antonio,2030-06-19 00:00:00,Luis Carlos Gomez ,Sin Telefono,Activo,0.5,1.0,1.0,0.0,Marcos Coca,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+78,Antonio,2030-06-19 00:00:00,Jesus Morales,Sin Telefono,Venta ,0.7,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+79,Saul ,2030-06-19 00:00:00,Rossana ,Sin Telefono,Finalizado ,0.8,1.0,1.0,0.0,Miguel,Ya nos visito el dia 23 de Junio ,Ya esta pre-aprobado ,Ya realizo PDM,Recibio la atencion,Se asigna en la visita 
+80,Antonio ,2030-06-19 00:00:00,Parmenides Ortiz,Sin Telefono,Acitvo ,0.7,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+81,Antonio,2030-06-19 00:00:00,Miguel Angel,Sin Telefono,Acitvo ,0.7,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+82,Saul,2030-06-19 00:00:00,Jose Miguel,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya nos visito el dia 27 de junio,En proceso,Ya realizo la prueba de manejo ,Si recibio la atencion ,se asigno hasta la visita de piso 
+83,Antonio,2030-06-19 00:00:00,Olivia rascon sosa,Sin Telefono,Acitvo ,0.6,1.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+84,Antonio,2030-06-19 00:00:00,Mireya Eugenia Ceron,Sin Telefono,Acitvo ,0.6,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+85,Antonio,2030-06-19 00:00:00,Arturo Alcantar,Sin Telefono,Acitvo ,0.7,1.0,1.0,0.0,Aurelio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+86,Saul ,2030-06-19 00:00:00,Hugo,Sin Telefono,Activo ,0.6,0.0,0.0,0.0,Alan ,Ya nos visito el dia 30 de junio ,Ya esta en proceso ,Ya se realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+87,Saul ,2030-06-19 00:00:00,Julio,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+88,Saul ,2030-06-19 00:00:00,Hugo Martines ,Sin Telefono,Activo ,0.6,1.0,1.0,2.0,Alan,Ya nos visito el dia 01 de Juio,Esta en proceso por ensueño,Si realizo la prueba de manejo ,Recibio la atencion,Se asigna en la visita
+89,Antonio,2030-06-19 00:00:00,Heriberto Solis Perez,Sin Telefono,Activo,0.6,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+90,Antonio,2030-06-19 00:00:00,Julio Jimenez,Sin Telefono,Activo,0.7,1.0,1.0,1.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+91,Antonio,2030-06-19 00:00:00,Edgar Corte ,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Carlos Texis,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+92,Saul ,2030-06-19 00:00:00,Grabiel Zamora ,Sin Telefono,Activo ,0.9,1.0,1.0,0.0,Mauricio ,Ya nos visito el dia 05/julio,Esta en proceso,Esta en proceso,Esta en proceso,Se  asigna en visita
+93,Saul ,2030-06-19 00:00:00,Ivan ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Nos vista lunes 7,No responde,No responde,No responde,No responde,No responde
+94,Saul,2030-06-19 00:00:00,Anthony,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Nos visita el sabado 5,Ya nos visito ,Ya esta la solicitud ,Ya realizo la prueba de manejo ,Esta en proceso,No responde
+95,Antonio,2030-06-19 00:00:00,Ernesto Vega,Sin Telefono,Activo,0.8,1.0,1.0,1.0,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+96,Saul ,2030-06-19 00:00:00,Hector Cortes ,Sin Telefono,Activo ,0.85,1.0,0.0,0.0,Alan Gonzalez,Ya nos visito,Esta en proceso, Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigna en la visita 
+97,Antonio,2030-06-19 00:00:00,Gabriel,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+98,Saul ,2030-06-19 00:00:00,Fausto,Sin Telefono,Activo ,0.8,1.0,1.0,0.0,Ricardo ,Ya nos visito el dia 11 de Julio ,Ya esta en proceso ,Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigno en la visita 
+99,Antonio,2030-06-19 00:00:00,Javer Moreno,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Llego al cierre del dia,Recibio la atencion,Se asigna en la visita
+100,Saul,2030-06-19 00:00:00,Roberto Paz Rojano ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Aurelio ,Ya nos visito el dia 15 Julio ,Ya esta en proceso ,El cliente comenta que no queria manejar la unidad ,Recibio la atencion ,Se asigna en la visita
+101,Saul ,2030-06-19 00:00:00,Alfonso ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Pedro Antonio ,Ya nos visito el dia 16 de julio ,Ya esta en proceso ,Si hubo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+102,Antonio,2030-06-19 00:00:00,Antonio/Talia,Sin Telefono,Acitvo ,0.8,0.0,1.0,1.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+103,Antonio,2030-06-19 00:00:00,Marisol Luna,Sin Telefono,Acitvo ,0.8,1.0,1.0,0.0,Aurelio ,Ya visito la agencia,Autorizada,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+104,Saul ,2030-06-19 00:00:00,Erick ,Sin Telefono,Finalizado ,0.7,1.0,1.0,0.0,Aurelio ,Ya visito la agencia ,El credito fue rachazado ,realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita 
+105,Saul,2030-06-19 00:00:00,Karla ,Sin Telefono,Activo ,0.8,0.0,0.0,0.0,Ignacio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita 
+106,Antonio,2030-06-19 00:00:00,Jose Hermenegildo ,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+107,Antonio,2030-06-19 00:00:00,Jossmarr  Csm Gil ,Sin Telefono,Activo,0.9,1.0,1.0,1.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+108,Saul ,2030-06-19 00:00:00,Guillermina ,Sin Telefono,Activo ,0.9,1.0,1.0,0.0,Victor ,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+109,Antonio,2030-06-19 00:00:00,Lorenzo Coyotl ,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+110,Antonio,2030-06-19 00:00:00,Patricia Rios,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+111,Antonio,2030-06-19 00:00:00,Armando Alvarez Morales,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+112,Antonio,2030-06-19 00:00:00,Juan Manuel Infante,Sin Telefono,Activo,0.85,1.0,1.0,0.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+113,Saul,2030-06-19 00:00:00,Gustavo Rojas Garcia,Sin Telefono,Activo ,0.8,1.0,1.0,0.0,Victor ,Ya visito la agencia,Si hay solicitud de credito ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+114,Saul,2030-06-19 00:00:00,Mauricio Garcia,Sin Telefono,Activo ,80.0,1.0,1.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+115,Antonio,2030-06-19 00:00:00,Susana Morales Gutierrez,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+116,Antonio,2030-06-19 00:00:00,Valerio Figueroa,Sin Telefono,Activo ,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+117,Antonio,2030-06-19 00:00:00,Sr Martinez,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+118,Antonio,2030-06-19 00:00:00,German Hernandez,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+119,Saul ,2030-06-19 00:00:00,Oscar,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Daniel ,Ya visito la agencia,Ya esta en proceso,No habia Unidad Demo,Recibio la atencion ,Se asigna en la visita
+120,Antonio,2030-06-19 00:00:00,Alvaro Vega Tobón,Sin Telefono,Activo,0.8,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+121,Antonio,2030-06-19 00:00:00,Sin Nombre,Agosto,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+122,Antonio,2030-06-19 00:00:00,Manolin Marin  ,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+123,Ana ,2030-06-19 00:00:00,Abraham Fernandez ,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mercedes,Ya visito la agencia ,No responde,No responde,No responde,No responde
+124,Antonio,2030-06-19 00:00:00,Karina Madrid,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+125,Antonio,2030-06-19 00:00:00,Iram Sanchez,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+126,Antonio,2030-06-19 00:00:00,Gilberto,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+127,Antonio,2030-06-19 00:00:00,Marta Gomez,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Alan/Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+128,Ana,2030-06-19 00:00:00,Norma Cruz,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Ricardo,Ya visito la agencia,No responde,No responde,No responde,No responde
+129,Ana,2030-06-19 00:00:00,Ryan Pacheco ,Sin Telefono,Activo,0.9,1.0,1.0,1.0,Pedro,Ya visito la agencia ,No responde,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+130,Antonio,2030-06-19 00:00:00,Miguel Edgar Ayllon,Sin Telefono,Activo,0.75,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+131,Antonio,2030-06-19 00:00:00,Jesus Ramirez,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+132,Ana ,2030-06-19 00:00:00,Jose Frein Romero Vega ,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Alan,Ya visito la agencia ,No responde,No responde,No responde,No responde
+133,Ana,2030-06-19 00:00:00,Javier Garcia ,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Mauricio ,Ya visito la agencia ,No responde,No responde,No responde,No responde
+134,Antonio,2030-06-19 00:00:00,Angelica Tejeda,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+135,Antonio,2030-06-19 00:00:00,Ariel Macbeth Fierro Lima,Sin Telefono,Activo,0.75,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+136,Antonio,2030-06-19 00:00:00,Robert Lopez,Sin Telefono,Activo,0.75,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+137,Antonio,2030-06-19 00:00:00,Eduardo Solis,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+138,Ana,2030-06-19 00:00:00,Margarita Rodriguez,Sin Telefono,Finalizado,0.5,0.0,0.0,0.0,Alan,Ya visito la agencia ,No responde,No responde,No responde,No responde
+139,Ana,2030-06-19 00:00:00,Jhonny Frost ,Sin Telefono,Activo,0.7,1.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,No responde
+140,Ana ,2030-06-19 00:00:00,Obed Garcia ,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Alan,Ya visito la agencia,No responde,No responde,No responde,No responde
+141,Ana ,2030-06-19 00:00:00,Nazario Garcia,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,No responde,No responde,No responde,No responde
+142,Ana,2030-06-19 00:00:00,Edson Jair,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Victor,Ya visito la agencia ,No responde,No responde,No responde,No responde
+143,Ana,2030-06-19 00:00:00,Oscar Daniel Cuautli LÃÂÃÂÃ,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Victor,Ya visito la agencia ,No responde,No responde,No responde,No responde
+144,Ana,2030-06-19 00:00:00,Ruben Quiroz ,Sin Telefono,Activo,0.7,1.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya este en proceso ,No responde,No responde,No responde
+145,Antonio,2030-06-19 00:00:00,Hipolito Leandro Funes ,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+146,Antonio,2030-06-19 00:00:00,Ruben Rafael Lozada ,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+147,Ana,2030-06-19 00:00:00,Fabi?n Zaldivar Arres ,Sin Telefono,Activo ,0.8,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,No responde
+148,Antonio,2030-06-19 00:00:00,Alejandro Sosa,Sin Telefono,Activo,0.5,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+149,Antonio,2030-06-19 00:00:00,Evangelina Rojas Juarez ,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+150,Antonio,2030-06-19 00:00:00,Curro,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,No responde
+151,Ana,2030-06-19 00:00:00,Gabino Arrieta ,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,No responde
+152,Ana,2030-06-19 00:00:00,Aldo Anzures Martinez,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Ricardo,Ya visito la agencia ,No responde,Ya realizo prueba de manejo,No responde,No responde
+153,Ana ,2030-06-19 00:00:00,antonio pavon garcia,Sin Telefono,Activo,0.5,0.0,0.0,0.0,Marcos,Ya visito la agencia ,No responde,No responde,No responde,No responde
+154,Ana ,2030-06-19 00:00:00,Andres Felipe ,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Marcos,Ya visito la agencia ,No responde,No responde,No responde,No responde
+155,Antonio,2030-06-19 00:00:00,Elizabeth  Toledo ,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+156,Antonio,2030-06-19 00:00:00,JUAN ANTONIO CASTELAN SANTIAGO,Sin Telefono,Activo,0.8,1.0,0.0,0.0,VICTOR,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+157,Antonio,2030-06-19 00:00:00,Luis Angel Ramos,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Jeamy Custom,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+158,Ana ,2030-06-19 00:00:00,Julia María Navarrete Carreño,Sin Telefono,Activo ,0.8,1.0,0.0,0.0,Marcos,Ya visito  la agencia ,No responde,Ya realizo prueba de manejo ,Recibio la atencion,No responde
+159,Antonio,2030-06-19 00:00:00,Ozair Viveros,Sin Telefono,Activo,0.8,1.0,0.0,0.0,VICTOR,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+160,Ana,2030-06-19 00:00:00,Yaimy  Guiterrez ,Sin Telefono,Activo,0.5,0.0,0.0,0.0,VICTOR,Ya visito la agencia ,No responde,No responde,No responde,No responde
+161,Antonio,2030-06-19 00:00:00,Orlando Delgado ,Sin Telefono,Activo,0.5,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+162,Ana,2030-06-19 00:00:00,Rodrigo.e.jim,Sin Telefono,Activo,0.5,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+163,Ana,2030-06-19 00:00:00,"Gabriel  Franco , Vazquez",Sin Telefono,Activo,0.6,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+164,Antonio,2030-06-19 00:00:00,Marisol Luna  Angeles,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+165,Antonio,2030-06-19 00:00:00,"Marcos Benjamin Oviedo, Moreno",Sin Telefono,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+166,Ana,2030-06-19 00:00:00,Fernando Pacheco ,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+167,SEPTIEMBRE,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+168,Antonio,2030-06-19 00:00:00,Johann Arevalo Zaragoza,Sin Telefono,Activo,0.6,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+169,Ana,2030-06-19 00:00:00,Alejandro Valentin,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Alan,Ya visito la agencia ,No responde,No responde,No responde,No responde
+170,Ana,2030-06-19 00:00:00,"Maria  Dolores , Rueda ",Sin Telefono,Activo,0.6,0.0,0.0,0.0,Ignacio,Videollamada,No responde,No responde,No responde,No responde
+171,Ana,2030-06-19 00:00:00,Nahum Montiel,Sin Telefono,Activo,0.5,0.0,0.0,0.0,Alan,Videollamada,No responde,No responde,No responde,No responde
+172,Antonio,2030-06-19 00:00:00,Juan,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+173,Antonio,2030-06-19 00:00:00,Comercializadora   Y Distribuidora,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+174,Ana,2030-06-19 00:00:00,Juan Aguilar Moreno ,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,No responde,No responde,No responde
+175,Ana,2030-06-19 00:00:00,Jorge Luis,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mercedes,Videollamada,Ya esta en proceso,No responde,No responde,No responde
+176,Ana ,2030-06-19 00:00:00,Ricardo,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Mercedes,Ya visita la agencia,No responde,No responde,No responde,No responde
+177,Antonio,2030-06-19 00:00:00,Miguel Angel Cuenca Perez,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+178,Ana,2030-06-19 00:00:00,Eloy Perez Gracia,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Alan,Ya visito la agencia,No responde,No responde,No responde,No responde
+179,Antonio,2030-06-19 00:00:00,Oscar Campech,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+180,Ana,2030-06-19 00:00:00,Levy Carrillo,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,No responde,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita3
+181,Antonio,2030-06-19 00:00:00,Monserrat Vivar Garcia,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,No responde,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+182,Ana,2030-06-19 00:00:00,Erwin Castaneda  ,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia ,No responde,No responde,No responde,No responde
+183,Ana ,2030-06-19 00:00:00,Adriel Zenteno,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+184,Antonio,2030-06-19 00:00:00,Mary Luz Carrillo Eliosa,Sin Telefono,Sin Estatus,0.7,1.0,0.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+185,Ana,2030-06-19 00:00:00,Sergio   Contreras ,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Maurico,Videollamada,Ya esta en proceso ,No responde,No responde,No responde
+186,Antonio,2030-06-19 00:00:00,Alejandro Huerta Fuentes,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+187,Antonio,2030-06-19 00:00:00,Felipe Sanchez/sigmundo,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+188,Antonio,2030-06-19 00:00:00,Salvador Flores,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+189,Antonio,2030-06-19 00:00:00,Marco Antonio  Altamirano Conde ,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+190,Ana ,2030-06-19 00:00:00,Josue  Heron  Lopez,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion ,Se asigno en la visita 
+191,Ana,2030-06-19 00:00:00,Yoni Maravilla,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+192,Antonio,2030-06-19 00:00:00,German Leon Sanchez,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+193,Ana ,2030-06-19 00:00:00,Eddie Fb ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+194,Antonio,2030-06-19 00:00:00,ISACHIFT117,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+195,Antonio,2030-06-19 00:00:00,Gaviota Alvarez,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+196,Ana,2030-06-19 00:00:00,Carlos Leonel  Bautista  ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+197,Ana,2030-06-19 00:00:00,Marcos  Maldonado ,Sin Telefono,Activo,0.6,0.0,1.0,0.0,Julio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+198,Ana,2030-06-19 00:00:00,"Edmon   Abdala ,  ",Sin Telefono,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+199,Ana ,2030-06-19 00:00:00,Antelmo Flores Guevara,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+200,Ana,2030-06-19 00:00:00,Jose Eduardo Alonso ,Sin Telefono,Activo,0.6,0.0,1.0,0.0,Aurelio ,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+201,Antonio,2030-06-19 00:00:00,Omar Aguilar Teyssier,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+202,Ana ,2030-06-19 00:00:00,Sarai Ruiz,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,No responde,Recibio la atencion,Se asigno en la visita 
+203,Ana ,2030-06-19 00:00:00,Jesus Colorado,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+204,Ana ,2030-06-19 00:00:00,"Juan Manuel Mendoza, Hernandez",Sin Telefono,Activo,0.8,0.0,1.0,0.0,Julio,Ya visito la agencia ,Ya esta en proceso ,No responde,Recibio la atencion,Se asigno en la visita 
+205,Antonio,2030-06-19 00:00:00,Martha Fernanda Garcia,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+206,Ana,2030-06-19 00:00:00,Clau,Sin Telefono,Activo,0.5,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,No responde,No responde,No responde,No responde
+207,Antonio,2030-06-19 00:00:00,Javier Garcia Amaya,Sin Telefono,Activo,0.6,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+208,Ana,2030-06-19 00:00:00,"Joaquin Rodrigo Arias, Rios",Sin Telefono,Activo,0.5,1.0,0.0,0.0,Julio,Ya visito la agencia ,No responde,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+209,Ana ,2030-06-19 00:00:00,Jesus Monreal,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+210,Ana,2030-06-19 00:00:00,Carlos Rodriguez Perez Rodr?guez P?rez ,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+211,Ana ,2030-06-19 00:00:00,Julio Cesar Vega ,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso ,No responde,Recibio la atencion ,Se asigna en la visita 
+212,Ana,2030-06-19 00:00:00,Ivan Garcia,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+213,Antonio,2030-06-19 00:00:00,Jose De Jesus  Perez,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+214,Ana,2030-06-19 00:00:00,Ricardo  Arenas,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+215,Ana,2030-06-19 00:00:00,"Miguel  Irigoyen, ",Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+216,Antonio,2030-06-19 00:00:00,Rene Angel Bellizzi ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+217,Ana,2030-06-19 00:00:00,Laura Ivonne Martinez ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+218,Ana,2030-06-19 00:00:00,Alejandro Olivares,Sin Telefono,Activo,0.6,0.0,1.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+219,Antonio,2030-06-19 00:00:00,Felipe  Tepale,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+220,Antonio,2030-06-19 00:00:00,Juan Carlos Miguel ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso ,No responde,Recibio la atencion,Se asigno en la visita 
+221,Ana,2030-06-19 00:00:00,Jesus Manuel  Rios,Sin Telefono,Activo,0.6,0.0,1.0,0.0,Mauricio ,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+222,Antonio,2030-06-19 00:00:00,Nicolas Contreras,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+223,ana,2030-06-19 00:00:00,"Jose De Jesus  Perez , ",Sin Telefono,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+224,Antonio,2030-06-19 00:00:00,"Jose Miguel  Cosme, Martinez",Sin Telefono,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+225,Ana,2030-06-19 00:00:00,Juan Aguilar Moreno ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+226,Ana,2030-06-19 00:00:00,Adriel Zenteno ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Ana,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+227,Antonio,2030-06-19 00:00:00,Jose Eduardo Toriz Bustos ,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+228,Ana,2030-06-19 00:00:00,VANNESSA LIZETTE PEREZ CARRANZA,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+229,Ana,2030-06-19 00:00:00,Juan  Lopez Cruz ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Ricardo,Ya visito la agencia ,Ya esta en proceso ,No responde,Recibio la atencion,Se asigno en la visita 
+230,Antonio,2030-06-19 00:00:00,NADIA LOPEZ GABRIEL,Sin Telefono,Activo,0.8,0.0,0.0,1.0,Mauricio,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+231,OCTUBRE,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+232,Ana ,2030-06-19 00:00:00,"Sixto Tito  Guzman, Varela",Sin Telefono,Activo,0.8,1.0,1.0,0.0,Jhosslan,Ya visit la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+233,Antonio,2030-06-19 00:00:00,Rogelio Hernandez,Sin Telefono,Activo,0.95,1.0,1.0,1.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+234,Ana,2030-06-19 00:00:00,Juan Francisco Olvera Alarcon,Sin Telefono,Ativo,0.7,0.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+235,Ana,2030-06-19 00:00:00,Gonzalo Chavez,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+236,Ana,2030-06-19 00:00:00,Jesus Gilbert  Cano ,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita 
+237,Antonio,2030-06-19 00:00:00,Eliseo Huerta,Sin Telefono,Activo,0.7,1.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+238,Antonio,2030-06-19 00:00:00,Javier  Reyes,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Jhosslan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+239,Ana,2030-06-19 00:00:00,Joaquin Moreno,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+240,Ana ,2030-06-19 00:00:00,Jose  Luis   Salazar  ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia ,No responde,No responde,No responde,No responde
+241,Antonio,2030-06-19 00:00:00,Jose Luis Pelcastre,Sin Telefono,Activo,0.75,1.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+242,Antonio,2030-06-19 00:00:00,Jennifer,Sin Telefono,Activo,0.6,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+243,Ana,2030-06-19 00:00:00,Enrique  Enrique  Herrera,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Julio,Ya visito la agencia ,No responde,No responde,No responde,No responde
+244,Ana ,2030-06-19 00:00:00,Ivan Emilio,Sin Telefono,Activo,0.85,0.0,1.0,0.0,Antonio,Ya visito la agencia ,Ya esta en proceso ,No responde,No responde,No responde
+245,Ana,2030-06-19 00:00:00,Jose Abraham Zamora Arenas,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Ricardo,No responde,No responde,No responde,No responde,No responde
+246,Antonio,2030-06-19 00:00:00,Gustavo Rojas Garcia,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+247,Ana ,2030-06-19 00:00:00,Carmen  Ortega ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,No responde
+248,Ana,2030-06-19 00:00:00,Raul Delgado,Sin Telefono,Activo,0.7,1.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,No responde
+249,Antonio,2030-06-19 00:00:00,Adan Fuentes ,Sin Telefono,Activo,0.85,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+250,Ana,2030-06-19 00:00:00,Jose Reyes,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo ,No responde,No responde
+251,Antonio,2030-06-19 00:00:00,Humberto Maldonado Garcia,Sin Telefono,Activo,0.65,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+252,Antonio,2030-06-19 00:00:00,Miguel Vasquez San Pablo ,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+253,Ana,2030-06-19 00:00:00,Carolina Ortega,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+254,Antonio,2030-06-19 00:00:00,Alejandro Vivas,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+255,Ana ,2030-06-19 00:00:00,Jose Manuel Martinez Rodriguez,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso ,No responde,No responde,No responde
+256,Antonio,2030-06-19 00:00:00,Juan mercado González,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+257,Ana,2030-06-19 00:00:00,Martin Magdaleno  Rodriguez ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita
+258,Ana,2030-06-19 00:00:00,Christian Capetillo,Sin Telefono,Activo,0.8,0.0,1.0,1.0,Omar,Ya visito la agencia,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita
+259,Ana,2030-06-19 00:00:00,Jose Manuel Morales Gomez,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia ,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita
+260,Ana ,2030-06-19 00:00:00,Orlando  Cuahutle,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Julio,Ya visito la agencia,Ya esta en proceso,No responde,Recibio la atencion,Se asigno en la visita
+261,Ana,2030-06-19 00:00:00,Joselin Ramirez  Escobar,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Alan,No responde,No responde,No responde,No responde,No responde
+262,Antonio,2030-06-19 00:00:00,Rafael Davila,Sin Telefono,Activo,0.65,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+263,Ana,2030-06-19 00:00:00,Felix Luna Baleon,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Jhoslan,Ya visito la agencia,Ya esta en proceso,No responde,Recibio la atencion,No responde
+264,Ana,2030-06-19 00:00:00,Luis Munoz ,Sin Telefono,Activo ,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,No responde,No responde,No responde,No responde
+265,Antonio,2030-06-19 00:00:00,Monserrat Torres,Sin Telefono,Activo,0.6,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+266,Antonio,2030-06-19 00:00:00,Alberto Acocal ,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+267,Ana,2030-06-19 00:00:00,Diego Martinez,Sin Telefono,Activo,0.9,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+268,Ana,2030-06-19 00:00:00,Cesar Cabrera Ortega ,Sin Telefono,Activo,0.7,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+269,Ana,2030-06-19 00:00:00,Diana  Hernandez ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+270,Ana,2030-06-19 00:00:00,Francisco  Mier ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+271,Ana ,2030-06-19 00:00:00,Margarita Diaz Garcia ,Sin Telefono,Activo,0.8,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+272,Antonio,2030-06-19 00:00:00,Teresa Guadalupe  Guillen Venegas,Sin Telefono,Activo,0.75,0.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+273,Antonio,2030-06-19 00:00:00,Adair Lopez,Sin Telefono,Activo,0.6,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+274,Ana,2030-06-19 00:00:00,Jairo Samuel  Pineda Velasquez,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+275,Ana ,2030-06-19 00:00:00,"Miriam Lizbeth Ruiz, Zamudio",Sin Telefono,Activo,0.85,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+276,Ana,2030-06-19 00:00:00,Imelda  Valencia  Sanchez,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+277,Antonio,2030-06-19 00:00:00,"Luis  Jorge , ",Sin Telefono,Activo,0.8,0.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+278,Ana ,2030-06-19 00:00:00,Waldo Pichon ,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+279,Ana,2030-06-19 00:00:00,"Taide Cordoba, Sandoval",Sin Telefono,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+280,Antonio,2030-06-19 00:00:00,"Sandi  Hernandez , ",Sin Telefono,Activo,0.85,0.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+281,Ana,2030-06-19 00:00:00,"Adriana  Zarate, Apolinar",Sin Telefono,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+282,Antonio,2030-06-19 00:00:00,Victor  Lorenzana ,Sin Telefono,Activo,0.65,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+283,Antonio,2030-06-19 00:00:00,"Antonio Ojeda  , ",Sin Telefono,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+284,Ana,2030-06-19 00:00:00,Mario Alberto Medrano Mayo,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+285,Antonio,2030-06-19 00:00:00,Antonio De Jesus Lima Hernandez,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+286,Ana ,2030-06-19 00:00:00,"Antonio  Lopez, ",Sin Telefono,Activo,0.8,0.0,1.0,1.0,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+287,Antonio,2030-06-19 00:00:00,"Todoro Lopez, ",Sin Telefono,Activo,0.7,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+288,Ana,2030-06-19 00:00:00,"Martin Vazquez  , ",Sin Telefono,Activo,0.65,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+289,Antonio,2030-06-19 00:00:00,"Israel Chavez  , ",Sin Telefono,Activo,0.8,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+290,Antonio,2030-06-19 00:00:00,Rocio Lopez Mesa,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+291,NOVIEMBRE,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+292,Ana,2030-06-19 00:00:00,Alexis  Palestina ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+293,Ana,2030-06-19 00:00:00,Vanessa  Maza ,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+294,Ana,2030-06-19 00:00:00,"Hugo Jorge  , ",Sin Telefono,Activo,0.7,1.0,1.0,1.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+295,Ana,2030-06-19 00:00:00,"David  Torres , Ramirez ",Sin Telefono,Activo,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+296,Ana,2030-06-19 00:00:00,Yasmin Galindo ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+297,Ana,2030-06-19 00:00:00,Ricardo  Martinez Tepox ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+298,Ana,2030-06-19 00:00:00,Ari  Valero ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+299,Ana,2030-06-19 00:00:00,Guadalupe Hernandez ,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,No responde,No responde,No responde,No responde
+300,Ana,2030-06-19 00:00:00,Humberto Calixto,Sin Telefono,Activo ,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia ,No responde,No responde,No responde,No responde
+301,Antonio,2030-06-19 00:00:00,Isidro Ramos,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+302,Antonio,2030-06-19 00:00:00,Jose Alberto ,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+303,Antonio,2030-06-19 00:00:00,Andrea Hernandez Reyes,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+304,Antonio,2030-06-19 00:00:00,Manuel Rodriguez ,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+305,Antonio,2030-06-19 00:00:00,José Iván Sánchez Pérez,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+306,Antonio,2030-06-19 00:00:00,Octavio Arvea,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+307,Ana,2030-06-19 00:00:00,Mario Negrete Juarez ,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No responde,No responde
+308,Ana,2030-06-19 00:00:00,Juan Gonzales ,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No responde,No responde
+309,Ana,2030-06-19 00:00:00,Marcial   Sanchez   ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No responde,No responde
+310,Ana,2030-06-19 00:00:00,Jesus Ivan Ibarra Robles,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,No responde,No responde
+311,Ana,2030-06-19 00:00:00,Juan Antonio  Cid  Reynoso  ,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No responde,No responde
+312,Ana,2030-06-19 00:00:00,Cesar Cabrera Ortega ,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No responde,No responde
+313,Ana,2030-06-19 00:00:00,Jose De Jesus  Franco Saldana ,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Ricardo ,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No responde,No responde
+314,Ana,2030-06-19 00:00:00,Jose C Tecnom ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No responde,No responde
+315,Ana,2030-06-19 00:00:00,Rene Beguerisse Torres,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,No responde,No responde
+316,Antonio,2030-06-19 00:00:00,Jose Ramon Marquez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+317,Antonio,2030-06-19 00:00:00,Ramsey Tecnom,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+318,Ana,2030-06-19 00:00:00,Jorge Ariza,Sin Telefono,Activo,0.9,1.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+319,Ana,2030-06-19 00:00:00,"Manuel  Vinaz, ",Sin Telefono,Activo,0.9,1.0,1.0,0.0,Omar,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+320,Antonio,2030-06-19 00:00:00,Efrain Zamudio ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+321,Antonio,2030-06-19 00:00:00,Rivera Castillo,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+322,Ana,2030-06-19 00:00:00,Alan Quintero Munive,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+323,Ana,2030-06-19 00:00:00,Omar Garcia Vazquez,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,No responde,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+324,Ana ,2030-06-19 00:00:00,Victor Arrroyo Tecnom,Sin Telefono,Activo ,0.7,1.0,0.0,0.0,Pedro,Ya visito la agencia ,No responde,No responde,No responde,No responde
+325,Ana,2030-06-19 00:00:00,Hugo Jirge Regalado Castaneda,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+326,Ana,2030-06-19 00:00:00,"Arizbeck  Ortiz, ",Sin Telefono,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+327,Ana,2030-06-19 00:00:00,"David  Torres , Ramirez ",Sin Telefono,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+328,Ana,2030-06-19 00:00:00,Vanessa  Maza ,Sin Telefono,Activo,0.8,0.0,0.0,1.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+329,Antonio,2030-06-19 00:00:00,Hugo Jirge Regalado  Castaneda ,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+330,Antonio,2030-06-19 00:00:00,"Jean  Simoni, ",Sin Telefono,Activo,0.7,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+331,Antonio,2030-06-19 00:00:00,Gustavo Rojas ,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+332,Ana,2030-06-19 00:00:00,"Rafael  Chocolatl, Cervantes",Sin Telefono,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+333,Ana,2030-06-19 00:00:00,"Dionisio Arce, Martinez",Sin Telefono,Activo,0.8,0.0,0.0,0.0,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+334,Antonio,2030-06-19 00:00:00,Mauel  Ramirez ,Sin Telefono,Activo ,0.7,0.0,1.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+335,Ana,2030-06-19 00:00:00,"Roberto Carlos Parra, Castelan",Sin Telefono,Activo,0.7,1.0,1.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+336,Ana,2030-06-19 00:00:00,Jose Luis Martinez,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+337,Antonio,2030-06-19 00:00:00,"Oscar  Arroyo, ",Sin Telefono,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+338,Antonio,2030-06-19 00:00:00,"Hector Alejandro Gonzalez Tapia  , ",Sin Telefono,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+339,Ana,2030-06-19 00:00:00,Cristian Ocampo ,Sin Telefono,Activo,0.7,1.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+340,Ana,2030-06-19 00:00:00,"Gloria Elena  Benavides, ",Sin Telefono,Activo,0.8,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+341,Antonio,2030-06-19 00:00:00,Efrain Zamudio ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+342,Antonio,2030-06-19 00:00:00,Carolina  Ortega ,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+343,Antonio,2030-06-19 00:00:00,"Hector Miguel  Fernandez , ",Sin Telefono,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+344,DICIEMBRE,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+345,Antonio,2030-06-19 00:00:00,Sr. Elvis fb,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+346,Antonio,2030-06-19 00:00:00,Magdaleno,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+347,Ana ,2030-06-19 00:00:00,Cerezo Honorato,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+348,Ana ,2030-06-19 00:00:00,Laura Garcia,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+349,Ana,2030-06-19 00:00:00,Sr. Francisco Cianca,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+350,Antonio,2030-06-19 00:00:00,Jose De Jesus Perez Hernandez,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No responde
+351,Ana,2030-06-19 00:00:00,Jose Abraham,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+352,Ana,2030-06-19 00:00:00,Jose Luis Rojas Aguilar,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+353,Ana,2030-06-19 00:00:00,"Sr. Roberto Loeza
+",Sin Telefono,Activo,0.6,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+354,Ana,2030-06-19 00:00:00,Ale Arellano,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+355,Antonio,2030-06-19 00:00:00,Eugenio De Las Heras B,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+356,Antonio,2030-06-19 00:00:00,Francisco/Maria del Sol,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+357,Antonio,2030-06-19 00:00:00,Filiberto González Guarneros,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+358,Antonio,2030-06-19 00:00:00,Jose Alberto,Sin Telefono,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+359,Antonio,2030-06-19 00:00:00,Luciano Valdès,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+360,Antonio,2030-06-19 00:00:00,Agustin,Sin Telefono,Activo,0.7,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+361,Ana,2030-06-19 00:00:00, MIGUEL SANTAMARIA MORALES,Sin Telefono,Activo,0.9,1.0,0.0,0.0,Cesar ,Ya visito la agencia,No responde,No responde,No responde,No responde
+362,Ana,2030-06-19 00:00:00,Jose Luis Guevara,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,No responde,No responde,No responde,No responde
+363,Ana,2030-06-19 00:00:00,Dario Castillo,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,No responde,No responde,No responde,No responde
+364,Ana,2030-06-19 00:00:00,Sixto Tito,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Victor,No responde,No responde,No responde,No responde,No responde
+365,Antonio,2030-06-19 00:00:00,Antonio Sanchez,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+366,Ana ,2030-06-19 00:00:00,Marco Antonio,Sin Telefono,Activo,8.0,0.0,0.0,0.0,Julio,No responde,No responde,No responde,No responde,No responde
+367,Antonio,2030-06-19 00:00:00,Andy,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+368,Antonio,2030-06-19 00:00:00,Hugo,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+369,Antonio,2030-06-19 00:00:00,Vicente Acosta,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+370,Ana,2030-06-19 00:00:00,Luis Lopez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Pedro,Ya visito la agencia,No responde,No responde,No responde,No responde
+371,Ana,2030-06-19 00:00:00,Lalo Diaz,Sin Telefono,Activo,0.9,1.0,1.0,0.0,Victor,Ya visito la agencia                              ,No responde,No responde,No responde,No responde
+372,Ana,2030-06-19 00:00:00,Julián García,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,No responde,No responde,No responde,No responde
+373,Antonio,2030-06-19 00:00:00,Rigoberto Salazar,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+374,Antonio,2030-06-19 00:00:00,Rodriguez Perslta,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+375,Antonio,2030-06-19 00:00:00,Diana Paola Cervantes Márquez,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+376,Antonio,2030-06-19 00:00:00,Mahe Aguilar,Sin Telefono,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+377,Ana ,2030-06-19 00:00:00,Eliut t,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Julio,Ya visito la agencia,No responde,No responde,No responde,No responde
+378,Ana,2030-06-19 00:00:00,Edward T,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Julio,Ya visito la agencia ,No responde,No responde,No responde,No responde
+379,Ana ,2030-06-19 00:00:00,Mtro Milton,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Cesar,Ya visito la agencia,No responde,No responde,No responde,No responde
+380,Ana,2030-06-19 00:00:00,"Maria Elena  Sanchez , Perez ",Sin Telefono,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia,No responde,No responde,No responde,No responde
+381,Antonio,2030-06-19 00:00:00,Oscar Bautista,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+382,Ana,2030-06-19 00:00:00,Adrian Paadilla,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Ricardo,Ya visito la agencia,No responde,No responde,No responde,No responde
+383,Ana ,2030-06-19 00:00:00,Gregorio Roldan Garcia,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+384,Antonio,2030-06-19 00:00:00,Manuel Baltazar,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+385,Antonio,2030-06-19 00:00:00,Carlos Mungia,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+386,Antonio,2030-06-19 00:00:00,Edith Gonzalez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+387,Antonio,2030-06-19 00:00:00,Guillermo Canto,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+388,Antonio,2030-06-19 00:00:00,Gabriel Meza,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+389,Antonio,2030-06-19 00:00:00,Jose Miguel,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+390,Antonio,2030-06-19 00:00:00,Carlos Ignacio,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+391,Antonio,2030-06-19 00:00:00,Carlos,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+392,2026-01-01 00:00:00,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+393,Antonio,2030-06-19 00:00:00,Miguel Ramirez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+394,Antonio,2030-06-19 00:00:00,Marcela Ramírez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+395,Antonio,2030-06-19 00:00:00,Rafael Lopez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+396,Antonio,2030-06-19 00:00:00,Irma Juarez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Elizabeth,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+397,Ana,2030-06-19 00:00:00,Jimmy T,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mauricio,No responde,No responde,No responde,No responde,No responde
+398,Ana,2030-06-19 00:00:00,Misael  Rodriguez ,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Ignacio,No responde,No responde,No responde,No responde,No responde
+399,Ana,2030-06-19 00:00:00,"Cesar  C ,  ",Sin Telefono,Activo,0.9,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+400,Antonio,2030-06-19 00:00:00,Mireya,Sin Telefono,Activo,0.9,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+401,Antonio,2030-06-19 00:00:00,Liliana Alvarez,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+402,Antonio,2030-06-19 00:00:00,Rodrigo P,Sin Telefono,Activo,0.9,0.0,0.0,0.0,Carlos Mejia/ pachuca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+403,Antonio,2030-06-19 00:00:00,Alfonso Ibañez Olmos,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+404,Antonio,2030-06-19 00:00:00,Guillermo Hernandez,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Nanacy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+405,Ana,2030-06-19 00:00:00,Roman Aguilar,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No responde,No responde,No responde,No responde
+406,Ana,2030-06-19 00:00:00,NATANAEL OLVERA San Pablo,Sin Telefono,Activo,0.7,1.0,1.0,0.0,Victor,Ya visito la agencia,No responde,No responde,No responde,No responde
+407,Ana,2030-06-19 00:00:00,Lau T,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No responde,No responde,No responde,No responde
+408,Ana,2030-06-19 00:00:00,Jose Luis Dominguez,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia,No responde,No responde,No responde,No responde
+409,Antonio,2030-06-19 00:00:00,Juan FLores,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+410,Antonio,2030-06-19 00:00:00,Omar  Cuautle,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+411,Ana,2030-06-19 00:00:00,Luis Angel l Rojas Lecona,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Cesar,Ya visito la agencia,No responde,No responde,No responde,No responde
+412,Ana,2030-06-19 00:00:00,Joe Carrera,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Julio Cesar,No responde,No responde,No responde,No responde,No responde
+413,Ana,2030-06-19 00:00:00,ana CAROLINA CAMPO,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Ricardo,No responde,No responde,No responde,No responde,No responde
+414,Ana,2030-06-19 00:00:00,Sadrac  Acostha ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Pedro,No responde,No responde,No responde,No responde,No responde
+415,Ana,2030-06-19 00:00:00,Ricardo,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Julio,No responde,No responde,No responde,No responde,No responde
+416,Antonio,2030-06-19 00:00:00,Alejandra Martinez,Sin Telefono,Activo,0.9,0.0,0.0,0.0,Alan,FORANEA VERACRUZ,Ya esta en proceso,FORANEA VERACRUZ,FORANEA VERACRUZ,Se asigno por SC
+417,Antonio,2030-06-19 00:00:00,Ericka Huerta Viveros,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+418,Antonio,2030-06-19 00:00:00,EDGAR ARCOS,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+419,Antonio,2030-06-19 00:00:00,Julio Guzmán,Sin Telefono,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+420,Ana,2030-06-19 00:00:00,Sadrac Acosta,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Pedro,Ya visito la agencia,No responde,No responde,No responde,No responde
+421,Ana,2030-06-19 00:00:00,Darth V,Sin Telefono,Activo,0.6,0.0,1.0,0.0,Pedro,Ya visito la agencia,No responde,No responde,No responde,No responde
+422,Ana,2030-06-19 00:00:00,JUAN VALDEZ,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Alan,Ya visito la agencia ,No responde,No responde,No responde,No responde
+423,Ana,2030-06-19 00:00:00,Lidio Sandoval Vazquez,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Sin Asesor,Ya visito la agencia,No responde,No responde,No responde,No responde
+424,Antonio,2030-06-19 00:00:00,Julio Cesar,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+425,Ana,2030-06-19 00:00:00,Luis Aldana,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Carlos Mejia,No responde,No responde,No responde,No responde,No responde
+426,Ana,2030-06-19 00:00:00,CARLOS ERNESTO PAREDES,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Julio,No responde,No responde,No responde,No responde,No responde
+427,Ana,2030-06-19 00:00:00,Demetrio  Zamara,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencua,No responde,No responde,No responde,No responde
+428,Ana,2030-06-19 00:00:00,Roberto De Jesus Lopez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Alan,No responde,No responde,No responde,No responde,No responde
+429,2026-02-01 00:00:00,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+430,Antonio,2030-06-19 00:00:00,Sergio Cebada,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+431,Antonio,2030-06-19 00:00:00,Orlando Peralta,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+432,Antonio,2030-06-19 00:00:00,jose angel varela,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+433,Antonio,2030-06-19 00:00:00,ANA MARIA NIETO,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+434,Antonio,2030-06-19 00:00:00,Nitzel Zempoaltecatl,Sin Telefono,Activo,0.9,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+435,Antonio,2030-06-19 00:00:00,Sergio ortega,Sin Telefono,Activo,0.9,1.0,1.0,1.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+436,Antonio,2030-06-19 00:00:00,Ramón Antonio,Sin Telefono,Activo,0.6,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+437,Antonio,2030-06-19 00:00:00,Cuautemoc Paramo Prado,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+438,Ana,2030-06-19 00:00:00,Josafat Cuapio,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Sin Asesor,Ya visito la agencia,No responde,No responde,No responde,No responde
+439,Ana,2030-06-19 00:00:00,Gilberto Fr,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Carlos Hernandez,Ya visito la agencia,No responde,No responde,No responde,No responde
+440,Ana,2030-06-19 00:00:00,Sergio Gonzalez,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,No responde,No responde,No responde,No responde
+441,Ana,2030-06-19 00:00:00,Adolfo Aguilar,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Victor,Ya visito la agencia,No responde,No responde,No responde,No responde
+442,Ana,2030-06-19 00:00:00,Antonio De Jesús Lima Hernández,Sin Telefono,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,No responde,No responde,No responde,No responde
+443,Antonio,2030-06-19 00:00:00,Cesar M,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+444,Ana,2030-06-19 00:00:00,Martín Vázquez,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,No responde,No responde,No responde,No responde
+445,Ana,2030-06-19 00:00:00,Pimentel Eleuterio,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,No responde,No responde,No responde,No responde
+446,Antonio,2030-06-19 00:00:00,Frida T,Sin Telefono,Activo,0.9,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+447,Ana,2030-06-19 00:00:00,Alicia Avila,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,No responde,No responde,No responde,No responde
+448,Ana,2030-06-19 00:00:00,Carlos Lozano Ramos,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Julio ,Ya visito la agencia ,No responde,No responde,No responde,No responde
+449,Ana,2030-06-19 00:00:00,MA ELENA ISABEL LEAN BURGOS-,Sin Telefono,Activo ,1.0,1.0,1.0,0.0,AURELIO,Ya visito la agencia,No responde,No responde,No responde,No responde
+450,Antonio,2030-06-19 00:00:00,Miguel Galindo Aburto,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+451,Antonio,2030-06-19 00:00:00,Omar Reyes,Sin Telefono,Activo,0.75,1.0,0.0,0.0,Julio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+452,Antonio,2030-06-19 00:00:00,Fernando Tellez,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+453,Antonio,2030-06-19 00:00:00,Rey Hernandez,Sin Telefono,Antonio,0.7,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+454,Ana,2030-06-19 00:00:00,Bety Herrera,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Carlos Hdz,No responde,No responde,No responde,No responde,No responde
+455,Ana,2030-06-19 00:00:00,Miguel Grande,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+456,Ana,2030-06-19 00:00:00,Israel Hernández Pérez,Sin Telefono,Activo ,0.6,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+457,Ana,2030-06-19 00:00:00,JOSE LUIS LOYA,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Victor,No responde,No responde,No responde,No responde,No responde
+458,Ana,2030-06-19 00:00:00,Brian Michel Villegas,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Alan,No responde,No responde,No responde,No responde,No responde
+459,Ana,2030-06-19 00:00:00,Hugo Velazquez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mauricio,Videollamada,No responde,No responde,No responde,No responde
+460,Antonio,2030-06-19 00:00:00,Karen,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+461,2026-03-01 00:00:00,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+462,Antonio,2030-06-19 00:00:00,Rene Osorno,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+463,Antonio,2030-06-19 00:00:00,Jose Carlos Hernandez,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+464,Ana,2030-06-19 00:00:00,Oscar Ezpinoza,Sin Telefono,Activo ,0.6,1.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+465,Antonio,2030-06-19 00:00:00,Cesar Chavez,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+466,Ana,2030-06-19 00:00:00,Miguel Angel Ramirez Avalos,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,No responde,No responde,No responde,No responde
+467,Antonio,2030-06-19 00:00:00,Ana Paola,Sin Telefono,Activo ,0.8,1.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+468,Ana,2030-06-19 00:00:00,Jack Joaquín Sabina Zárate Juárez,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,No responde,No responde,No responde,No responde
+469,Ana,2030-06-19 00:00:00,Adrian Cristobal,Sin Telefono,Activo ,0.7,0.0,1.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+470,Antonio,2030-06-19 00:00:00,PRE HOGAR,Sin Telefono,Activo,0.7,1.0,0.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+471,Antonio,2030-06-19 00:00:00,Maura Gonzalez,Sin Telefono,Activo ,0.6,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+472,Antonio,2030-06-19 00:00:00,Carlos Nava,Sin Telefono,Activo ,0.7,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+473,Ana,2030-06-19 00:00:00,Luis arturo chora lara,Sin Telefono,Activo ,0.7,1.0,0.0,0.0,Julio Cesar,No responde,No responde,No responde,No responde,No responde
+474,Ana,2030-06-19 00:00:00,Jose Isidro,Sin Telefono,Activo ,0.7,1.0,0.0,0.0,Julio Cesar,No responde,No responde,No responde,No responde,No responde
+475,Antonio,2030-06-19 00:00:00,Sergio,Sin Telefono,Activio,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+476,Antonio,2030-06-19 00:00:00,Athalia,Sin Telefono,Activo ,0.9,0.0,0.0,1.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+477,Antonio,2030-06-19 00:00:00,Alfonso Ramirez,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+478,2026-04-01 00:00:00,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+479,Antonio,2030-06-19 00:00:00,Carlos León,Sin Telefono,Activo ,0.7,0.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+480,Ana,2030-06-19 00:00:00,Jesus P,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,No responde,No responde
+481,Ana,2030-06-19 00:00:00,JUAN DE DIOS NAVARRETE MENDEZ,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,No responde,No responde
+482,Ana,2030-06-19 00:00:00,Anyvia Jazmín Cruz Mendoza,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Carlos Mejia,No responde,No responde,No responde,No responde,No responde
+483,Antonio,2030-06-19 00:00:00,Christofer,Sin Telefono,Activo,0.65,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+484,Ana,2030-06-19 00:00:00,Simon Vega Aquiahuatl,Sin Telefono,Activo,0.7,0.0,1.0,0.0,Vanny,Ya visito la agencia ,No responde,No responde,No responde,No responde
+485,Ana,2030-06-19 00:00:00,HECTOR JIMÉNEZ ALDAY,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,No responde,No responde,No responde,No responde
+486,Ana,2030-06-19 00:00:00,Jhonathan Bravo,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Maurico,Ya visito la agencia ,No responde,No responde,No responde,No responde
+487,Ana,2030-06-19 00:00:00,Cristobal,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,No responde,No responde,No responde,No responde
+488,Antonio,2030-06-19 00:00:00,MARÍA DEL CARMEN GRADOS,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+489,Antonio,2030-06-19 00:00:00,Alejandro Cruz Adabache,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+490,Antonio,2030-06-19 00:00:00,Juan José castellon,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Ivan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+491,Antonio,2030-06-19 00:00:00,Dianarely Marquez,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Mauricio,SC,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+492,Ana,2030-06-19 00:00:00,Dr Julio Cesar,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Vanny,Ya visito la agencia,No responde,No responde,No responde,No responde
+493,Ana,2030-06-19 00:00:00,David Omar Damián González,Sin Telefono,Activo,80.0,0.0,0.0,0.0,Victor,Ya visito la agencia ,No responde,No responde,No responde,No responde
+494,Ana,2030-06-19 00:00:00,Arturo Delgado García,Sin Telefono,Activo,0.5,0.0,0.0,0.0,Victor,Ya visito la agencia,No responde,No responde,No responde,No responde
+495,Ana ,2030-06-19 00:00:00,Mario Moreno,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia,No responde,No responde,No responde,No responde
+496,Ana,2030-06-19 00:00:00,Victor Luciano Huerta Acosta Huerta,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia ,No responde,No responde,No responde,No responde
+497,Ana,2030-06-19 00:00:00,Roberto Aguilar,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Julio ,Ya visito la agencia ,No responde,No responde,No responde,No responde
+498,Ana,2030-06-19 00:00:00,Rulo Vera,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Nayeli,Ya visito la agencia,No responde,No responde,No responde,No responde
+499,Ana,2030-06-19 00:00:00,Rafael Cázares,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,No responde,No responde,No responde,No responde
+500,Ignacio ,2030-06-19 00:00:00,Antonio Escalona ,Sin Telefono,Activo ,0.5,1.0,1.0,0.0,Pedro Gonzalez ,Ya visito la agencia,No responde,No responde,No responde,No responde
+501,Ignacio ,2030-06-19 00:00:00,Martin Ortuño ,Sin Telefono,Activo ,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No responde,No responde,No responde,No responde
+502,Ignacio ,2030-06-19 00:00:00,Salvador Jasso ,Sin Telefono,Activo ,0.3,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,depende del padres ,No responde,No responde,No responde
+503,Ignacio ,2030-06-19 00:00:00,Luis Pelcastre ,Sin Telefono,Activo,0.3,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No responde,No responde,No responde,No responde
+504,Ignacio ,2030-06-19 00:00:00,Santa Garcia ,Sin Telefono,Activo,0.5,1.0,1.0,0.0,Carlos Hernandez ,Ya visito la agencia,No responde,No responde,No responde,No responde
+505,Ignacio ,2030-06-19 00:00:00,Gamaliel Vega ,Sin Telefono,Activo,0.5,1.0,1.0,1.0,Pedro ,Ya visito la agencia,No responde,No responde,No responde,No responde
+506,Ana,2030-06-19 00:00:00,Victor Hugo Narvaez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No responde,No responde,No responde,No responde
+507,Ana,2030-06-19 00:00:00,EDGAR SILES,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,No responde,No responde,No responde,No responde
+508,Ana,2030-06-19 00:00:00,JAIRO ROJAS,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Pedro ,Ya visito la agencia,No responde,No responde,No responde,No responde
+509,Ana,2030-06-19 00:00:00,Carlos Perez,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia,No responde,No responde,No responde,No responde
+510,Ana,2030-06-19 00:00:00,Arnold perales,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,No responde,No responde,No responde,No responde
+511,Ana ,2030-06-19 00:00:00,Said Azpeitia Blanco,Sin Telefono,Activo-,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,No responde,No responde,No responde,No responde
+512,Ignacio ,2030-06-19 00:00:00,Ricardo Gutierrez,Sin Telefono,Activo-,0.8,1.0,0.0,1.0,Mauricio ,Ya visito la agencia,No responde,No responde,No responde,No responde
+513,Ignacio ,2030-06-19 00:00:00,Jorge de gante,Sin Telefono,Activo-,0.8,1.0,1.0,0.0,Pedro ,Ya visito la agencia,No responde,No responde,No responde,No responde
+514,Ignacio ,2030-06-19 00:00:00,Javier Aguilar ,Sin Telefono,Activo-,0.8,0.0,0.0,0.0,Pedro ,Ya visito la agencia,No responde,No responde,No responde,No responde
+515,Ignacio ,2030-06-19 00:00:00,Marco Antonio Valencia ,Sin Telefono,Activo-,0.7,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,No responde,No responde,No responde,No responde
+516,Igancio ,2030-06-19 00:00:00,Rocio Cortes ,Sin Telefono,Activo-,0.5,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,No responde,No responde,No responde,No responde
+517,Ana ,2030-06-19 00:00:00,Armando Uribe Torres,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,No responde,No responde,No responde,No responde
+518,Ignacio ,2030-06-19 00:00:00,Elias Dias Salgado ,Sin Telefono,Activo ,0.5,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,No responde,No responde,No responde,No responde
+519,Ana,2030-06-19 00:00:00,andres Domínguez,Sin Telefono,Activo,0.6,1.0,0.0,0.0,Fatima,Ya visito la agencia,No responde,No responde,No responde,No responde
+520,Ana,2030-06-19 00:00:00,Rafael Sanchez,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia,No responde,No responde,No responde,No responde
+521,Ana ,2030-06-19 00:00:00,Carlos Herrera,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No responde,No responde,No responde,No responde
+522,Ana,2030-06-19 00:00:00,Daniel Morales Hernández,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,No responde,No responde,No responde,No responde
+523,Ana,2030-06-19 00:00:00,Jehu Rodriguez,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visto la agencia,No responde,No responde,No responde,No responde
+524,Ignacio ,2030-06-19 00:00:00,Juan Pablo Castellanos ,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Victor Sanchez ,Ya visto la agencia,No responde,No responde,No responde,No responde
+525,Ana,2030-06-19 00:00:00,Pablo Archundia López,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia,No responde,No responde,No responde,No responde
+526,Ana,2030-06-19 00:00:00,JOSE LUIS,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Mauricio,No responde,No responde,No responde,No responde,No responde
+527,Ana,2030-06-19 00:00:00,Alejandro Tapia Rueda,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Carlos,No responde,No responde,No responde,No responde,No responde
+528,Ana,2030-06-19 00:00:00,Angel Perez,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Vanny,No responde,No responde,No responde,No responde,No responde
+529,Ana,2030-06-19 00:00:00,Julio Lopez,Sin Telefono,Activo,0.5,1.0,0.0,0.0,Pedro Gonzalez,No responde,No responde,No responde,No responde,No responde
+530,Ana,2030-06-19 00:00:00,Miguel Antonio Fernandez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Nayeli,No responde,No responde,No responde,No responde,No responde
+531,Ana,2030-06-19 00:00:00,Alejandro Sanchez,Sin Telefono,Activo,0.3,0.0,0.0,0.0,Julio Cesar,No responde,No responde,No responde,No responde,No responde
+532,Ana,2030-06-19 00:00:00,Cesar Palafox,Sin Telefono,Activo,0.3,0.0,0.0,0.0,Vanny,No responde,No responde,No responde,No responde,No responde
+533,Ana,2030-06-19 00:00:00,HUGO BADILLO,Sin Telefono,Activo,0.5,0.0,0.0,0.0,Alvaro,No responde,No responde,No responde,No responde,No responde
+534,Ana,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+535,Ana,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+536,Ana,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+537,Ana,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+538,Ana,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+539,2026-05-01 00:00:00,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+540,Ignacio ,2030-06-19 00:00:00,Alan Guerrero ,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,No responde,No responde,No responde,No responde
+541,Ignacio ,2030-06-19 00:00:00,Larrisa Oidor ,Sin Telefono,Sin Estatus,0.8,0.0,1.0,0.0,Mauricio ,No responde,No responde,No responde,No responde,No responde
+542,Ignacio ,2030-06-19 00:00:00,Jorge Duran ,Sin Telefono,Activo ,0.8,0.0,0.0,0.0,Pedro ,Ya visito la agencia,No responde,No responde,No responde,No responde
+543,Ignacio ,2030-06-19 00:00:00,Hector Reyes ,Sin Telefono,Sin Estatus,0.8,1.0,1.0,0.0,Pedro ,Ya visito la agencia,No responde,No responde,No responde,No responde
+544,Ana ,2030-06-19 00:00:00,Leo Rodríguez,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,No responde,No responde,No responde,No responde
+545,Ana,2030-06-19 00:00:00,Neftali Lima Sanchez,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,No responde,No responde,No responde,No responde
+546,Igancio ,2030-06-19 00:00:00,Alhdair Bonifacio Ramos ,Sin Telefono,Activo ,0.8,0.0,0.0,0.0,Victor ,Ya visito la agencia,No responde,No responde,No responde,No responde
+547,Igancio ,2030-06-19 00:00:00,Gary Hernandez ,Sin Telefono,Activo ,0.8,0.0,0.0,0.0,Vanny ,Ya visito la agencia,No responde,No responde,No responde,No responde
+548,Ana,2030-06-19 00:00:00,Edgar Alejandro,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,No responde,No responde,No responde,No responde
+549,Ana,2030-06-19 00:00:00,Celestino Olivares Flores,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Pedro,No responde,No responde,No responde,No responde,No responde
+550,Ana,2030-06-19 00:00:00,Margarita Martìnez Mirand,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,No responde,No responde,No responde,No responde
+551,Ana,2030-06-19 00:00:00,Armando Uribe Torres-,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Fatima,No responde,No responde,No responde,No responde,No responde
+552,Ana,2030-06-19 00:00:00,Jose F,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Julio,No responde,No responde,No responde,No responde,No responde
+553,Ana,2030-06-19 00:00:00,Jesus Flores sanchez,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Pedrp,No responde,No responde,No responde,No responde,No responde
+554,Ana,2030-06-19 00:00:00,JOSE IGNACIO,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+555,Ignacio ,2030-06-19 00:00:00,Fernando Duran ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Pedro ,No responde,No responde,No responde,No responde,No responde
+556,Ignacio ,2030-06-19 00:00:00,Guillermo Benavides ,Sin Telefono,activo,0.8,1.0,1.0,0.0,Pedro ,No responde,No responde,No responde,No responde,No responde
+557,Ignacio ,2030-06-19 00:00:00,Hugo Franco ,Sin Telefono,activo,0.8,1.0,0.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+558,Ignacio ,2030-06-19 00:00:00,Luis Enrique Palomares ,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Aurelio ,No responde,No responde,No responde,No responde,No responde
+559,Ana ,2030-06-19 00:00:00,Edgar Alejandro,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+560,Ana,2030-06-19 00:00:00,Eduardo Apodaca Espinosa,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+561,Ana,2030-06-19 00:00:00,Marco xs,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Julio,No responde,No responde,No responde,No responde,No responde
+562,Ana,2030-06-19 00:00:00,JOSE SANCHEZ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+563,Ana ,2030-06-19 00:00:00,Roberto Garcia ,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Pedro,No responde,No responde,No responde,No responde,No responde
+564,Ana,2030-06-19 00:00:00,Gustavo Melendez,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+565,Ignacio ,2030-06-19 00:00:00,Ruben Lopez ,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Mario ,No responde,No responde,No responde,No responde,No responde
+566,Ignacio ,2030-06-19 00:00:00,Jaime trejo ,Sin Telefono,Activo ,0.7,1.0,1.0,0.0,Pedro ,No responde,No responde,No responde,No responde,No responde
+567,Igancio ,2030-06-19 00:00:00,Alma Sanchez ,Sin Telefono,Activo ,0.8,0.0,0.0,0.0,Pedro ,No responde,No responde,No responde,No responde,No responde
+568,Ignacio ,2030-06-19 00:00:00,Carlos Cervantes ,Sin Telefono,Activo ,0.8,0.0,0.0,0.0,Mauricio ,No responde,No responde,No responde,No responde,No responde
+569,Ignacio ,2030-06-19 00:00:00,Santa Garcia ,Sin Telefono,Activo ,1.0,1.0,1.0,1.0,Carlos ,No responde,No responde,No responde,No responde,No responde
+570,Ignacio ,2030-06-19 00:00:00,Raul Miranda ,Sin Telefono,Activo ,1.0,0.0,1.0,1.0,Mauricio ,No responde,No responde,No responde,No responde,No responde
+571,Ana ,2030-06-19 00:00:00,Juan Manuel Hernández,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Fatima,No responde,No responde,No responde,No responde,No responde
+572,Ana,2030-06-19 00:00:00,Ramon Castro Vite,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Fatima,No responde,No responde,No responde,No responde,No responde
+573,Ana,2030-06-19 00:00:00,Ernesto Pachuca,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Carlos Mejia,No responde,No responde,No responde,No responde,No responde
+574,Ana,2030-06-19 00:00:00,Adalyn montiel morales,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Pedro,No responde,No responde,No responde,No responde,No responde
+575,Ana,2030-06-19 00:00:00,EVERT VALVERDE JIMENEZ,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Mario,No responde,No responde,No responde,No responde,No responde
+576,Ana,2030-06-19 00:00:00,Benjamin Sanchez,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+577,Ana,2030-06-19 00:00:00,Quiroz Daniel,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Mauricio,No responde,No responde,No responde,No responde,No responde
+578,Ignacio ,2030-06-19 00:00:00,Armando Briones ,Sin Telefono,Activo ,0.5,0.0,1.0,0.0,Pedro ,No responde,No responde,No responde,No responde,No responde
+579,Ana,2030-06-19 00:00:00,Salomon Sanchyez,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Vanny,No responde,No responde,No responde,No responde,No responde
+580,Ana,2030-06-19 00:00:00,Adriana F,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Carlos Mejia,No responde,No responde,No responde,No responde,No responde
+581,Ana,2030-06-19 00:00:00,Angel Romo,Sin Telefono,Sin Estatus,0.8,1.0,0.0,0.0,Vanny,No responde,No responde,No responde,No responde,No responde
+582,Ignacio ,2030-06-19 00:00:00,Juan Carlos Carreto ,Sin Telefono,Sin Estatus,0.5,0.0,1.0,0.0,pedro ,No responde,No responde,No responde,No responde,No responde
+583,Ignacio ,2030-06-19 00:00:00,Alberto SR,Sin Telefono,Sin Estatus,0.5,0.0,1.0,0.0,Pedro ,No responde,No responde,No responde,No responde,No responde
+584,Ana,2030-06-19 00:00:00,Sebastian F,Sin Telefono,Sin Estatus,0.8,1.0,0.0,0.0,Pedro,No responde,No responde,No responde,No responde,No responde
+585,Ana,2030-06-19 00:00:00,Jorge G,Sin Telefono,Sin Estatus,0.8,1.0,1.0,0.0,Victor,No responde,No responde,No responde,No responde,No responde
+586,Ignacio ,2030-06-19 00:00:00,Fernando Zárate ,Sin Telefono,Activo ,0.7,1.0,1.0,0.0,Victor ,No responde,No responde,No responde,No responde,No responde
+587,Igancio ,2030-06-19 00:00:00,Karla Marquez ,Sin Telefono,Activo ,0.7,0.0,0.0,0.0,Pedro ,No responde,No responde,No responde,No responde,No responde
+588,Ana,2030-06-19 00:00:00,ansony f,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+589,Ana,2030-06-19 00:00:00,Jorge A Quiroz,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Pedro,No responde,No responde,No responde,No responde,No responde
+590,Ignacio ,2030-06-19 00:00:00,Michel Taja ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Aurelio ,No responde,No responde,No responde,No responde,No responde
+591,Ignacio ,2030-06-19 00:00:00,Jairo Rodriguez ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Victro ,No responde,No responde,No responde,No responde,No responde
+592,Ignacio ,2030-06-19 00:00:00,Arturo Lopez ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Pedro,No responde,No responde,No responde,No responde,No responde
+593,Ignacio ,2030-06-19 00:00:00,Yolanda Castellanos ,Sin Telefono,Activo ,1.0,0.0,1.0,1.0,Victor ,No responde,No responde,No responde,No responde,No responde
+594,Ana ,2030-06-19 00:00:00,Juan Roque,Sin Telefono,Activo ,1.0,1.0,1.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+595,Igancio ,2030-06-19 00:00:00,Maria guadalupe Serrano ,Sin Telefono,Activo ,1.0,0.0,0.0,1.0,Victor ,No responde,No responde,No responde,No responde,No responde
+596,Ana,2030-06-19 00:00:00,MARCO ANTONIO CHARTUNI,Sin Telefono,Activo,0.8,0.0,1.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+597,Ana,2030-06-19 00:00:00,Alexey ,Sin Telefono,Activo ,1.0,1.0,1.0,0.0,Ana,No responde,No responde,No responde,No responde,No responde
+598,Ana,2030-06-19 00:00:00,Brenda Lucero,Sin Telefono,Activo ,1.0,1.0,1.0,0.0,VICTOR,No responde,No responde,No responde,No responde,No responde
+599,2026-06-01 00:00:00,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+600,Ignacio ,2026-06-01,Francisco Cacho ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Mario ,No responde,No responde,No responde,No responde,No responde
+601,Ignacio ,2026-06-01,Guillermo Hernandez ,Sin Telefono,Activo ,0.5,1.0,0.0,0.0,Pedro Antonio ,No responde,No responde,No responde,No responde,No responde
+602,Ignacio ,2026-06-02,Roberto Quintana ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Nayeli ,No responde,No responde,No responde,No responde,No responde
+603,Ignacio ,2026-06-03,Karla Marquez ,Sin Telefono,Activo ,1.0,0.0,0.0,1.0,Pedro,No responde,No responde,No responde,No responde,No responde
+604,Ana ,2026-06-01,Javier Juarez Solano,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Vanny,No responde,No responde,No responde,No responde,No responde
+605,Ana,2026-06-03,Ommar Herrera,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Carlos mejia,No responde,No responde,No responde,No responde,No responde
+606,Ana,2026-06-04,Andres Cuevas,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Carlos Mejia ,No responde,No responde,No responde,No responde,No responde
+607,Ana,2026-06-05,Fernanda Lopez,Sin Telefono,Activo,0.8,1.0,1.0,0.0,Ignacio ,No responde,No responde,No responde,No responde,No responde
+608,Ana,2026-06-02,Jose,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Llamada,No responde,No responde,No responde,No responde,No responde
+609,Ignacio,2026-06-06,Gregorio Tlapanco ,Sin Telefono,Activo ,0.8,0.0,0.0,0.0,Mario Varela,No responde,No responde,No responde,No responde,No responde
+610,Ignacio ,2026-06-12,Ivan Bravo ,Sin Telefono,Activo ,0.5,1.0,1.0,1.0,Mario Varela ,No responde,No responde,No responde,No responde,No responde
+611,Ignacio ,2026-06-12,Angelica Briones ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Julio Cesar ,No responde,No responde,No responde,No responde,No responde
+612,Ignacio ,2026-06-12,Juan Alberto Vargas ,Sin Telefono,Activo ,0.5,1.0,0.0,0.0,Mario Varela ,No responde,No responde,No responde,No responde,No responde
+613,Ana,2026-06-17,Moises ,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+614,Ana,2026-06-10,LUIS CASTILLO,Sin Telefono,Activo,0.5,0.0,0.0,0.0,Fer,No responde,No responde,No responde,No responde,No responde
+615,Ana,2026-06-12,Eder Hernandez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Fatima,No responde,No responde,No responde,No responde,No responde
+616,Ana,2026-06-13,Alberto Madrigal,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Pedro Antonio,No responde,No responde,No responde,No responde,No responde
+617,Ana,2026-06-06,Jesus Adelfo Hernandez Montiel,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Julio Cesar,No responde,No responde,No responde,No responde,No responde
+618,Ana,2026-06-16,Eduardo Delón Páez,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Nayeli,No responde,No responde,No responde,No responde,No responde
+619,Ana,2026-06-10,LUIS FERNANDO SANCHEZ QUIROZ,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Mario,No responde,No responde,No responde,No responde,No responde
+620,Ana,2026-06-05,Ommar Herrera,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Carlos Mejia,No responde,No responde,No responde,No responde,No responde
+621,Ana,2026-06-06,Jaime Davila Baez,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Pedro,No responde,No responde,No responde,No responde,No responde
+622,Ana,2026-06-19,Jan cx,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Carlos Mejia ,No responde,No responde,No responde,No responde,No responde
+623,Ana,2026-06-16,BERNARDO ALCARAZ MORALES,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Nayeli,No responde,No responde,No responde,No responde,No responde
+624,Ana,2026-06-07,Juan Carlos García Hernández,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Carlos Mejia,No responde,No responde,No responde,No responde,No responde
+625,Ana,2026-06-15,Benjamin Mendez,Sin Telefono,Activo ,0.7,1.0,0.0,0.0,Vanny,No responde,No responde,No responde,No responde,No responde
+626,Ana,2026-06-06,Jesus F,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Fer F,No responde,No responde,No responde,No responde,No responde
+627,Ana,2026-06-28,Sergio Flores,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Fatima,No responde,No responde,No responde,No responde,No responde
+628,Ana,2026-06-28,Sofia polo,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Vanny,No responde,No responde,No responde,No responde,No responde
+629,Ignacio ,2026-06-29,Jorge Canche ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Ignacio ,No responde,No responde,No responde,No responde,No responde
+630,Igancio ,2026-06-28,Octavio Perez ,Sin Telefono,Activo ,0.7,0.0,1.0,0.0,Pedro Antonio ,No responde,No responde,No responde,No responde,No responde
+631,Ignacio ,2026-06-28,Adelina Khalikova ,Sin Telefono,Activo ,0.7,1.0,0.0,0.0,Pedro Antonio ,No responde,No responde,No responde,No responde,No responde
+632,Ignacio ,2026-06-27,Roberto Luna Rosas ,Sin Telefono,Activo ,0.5,1.0,0.0,1.0,Pedro Antonio ,No responde,No responde,No responde,No responde,No responde
+633,Ignacio ,2026-06-19,Miguel Martinez ,Sin Telefono,Activo ,0.5,1.0,0.0,0.0,Nayeli ,No responde,No responde,No responde,No responde,No responde
+634,Ignacio ,2026-06-20,Humberto Valencia ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Aurelio ,No responde,No responde,No responde,No responde,No responde
+635,Ignacio ,2026-06-19,Propescto Orizaba ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Nayeli ,No responde,No responde,No responde,No responde,No responde
+636,Ana ,2026-06-24,Paul Kehrli,Sin Telefono,Activo,0.6,0.0,0.0,0.0,Pedro Antonio,No responde,No responde,No responde,No responde,No responde
+637,Ana ,2026-06-15,Benjamin Mendez,Sin Telefono,Activo ,0.7,0.0,0.0,0.0,Vanny,No responde,No responde,No responde,No responde,No responde
+638,Ana,2026-06-06,Reynaldo Cobos ,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Ulises,No responde,No responde,No responde,No responde,No responde
+639,Ana,2026-06-20,Arturo Moreno ,Sin Telefono,Activo,0.5,0.0,0.0,0.0,Nayeli,No responde,No responde,No responde,No responde,No responde
+640,Ana,2026-06-17,Moises Hdez,Sin Telefono,Activo,0.7,0.0,0.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+641,2027-07-01 00:00:00,2030-06-19 00:00:00,Sin Nombre,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+642,Ignacio ,2026-06-04,Arquimedes Rugerio ,Sin Telefono,Activo ,0.6,1.0,0.0,0.0,Nayeli ,No responde,No responde,No responde,No responde,No responde
+643,Ignacio ,2026-06-04,Victor Manuel Diaz Ortiz ,Sin Telefono,Activo ,0.6,1.0,0.0,0.0,Cesar Pestaña,No responde,No responde,No responde,No responde,No responde
+644,Ana,2026-06-02,Margarita Romero Castillo,Sin Telefono,Activo ,1.0,1.0,1.0,0.0,Pedro Antonio,No responde,No responde,No responde,No responde,No responde
+645,Ana,2026-07-07,Eder Chavez,Sin Telefono,Activo ,0.7,1.0,0.0,0.0,Fatima,No responde,No responde,No responde,No responde,No responde
+646,Ana,2026-07-07,Alejandro VELAZQUEZ,Sin Telefono,Activo ,0.8,1.0,1.0,0.0,Nayeli,No responde,No responde,No responde,No responde,No responde
+647,Ana,2026-07-11,Miguel irigoyen,Sin Telefono,Activo ,0.8,0.0,0.0,0.0,Julio,No responde,No responde,No responde,No responde,No responde
+648,Ana,2026-07-08,Jose Hernandez Gonzalez,Sin Telefono,Activo ,0.8,1.0,1.0,0.0,Pedro ,No responde,No responde,No responde,No responde,No responde
+649,Ignacio ,2026-07-09,Oswaldo Rueda ,Sin Telefono,Activo ,0.8,1.0,1.0,0.0,Pedro ,No responde,No responde,No responde,No responde,No responde
+650,Ignacio ,2026-07-10,Arturo Mendez ,Sin Telefono,Activo ,0.8,1.0,0.0,0.0,Mauricio ,No responde,No responde,No responde,No responde,No responde
+651,Ana,2026-07-08,Ruben Vargas,Sin Telefono,Acrivo,0.8,1.0,1.0,0.0,Julio,No responde,No responde,No responde,No responde,No responde
+652,Ana ,2026-07-04,Edgar Herrera,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Fatima,No responde,No responde,No responde,No responde,No responde
+653,Igancio ,2026-07-14,luis Hernandez,Sin Telefono,Activo ,0.5,1.0,0.0,0.0,Nayeli ,No responde,No responde,No responde,No responde,No responde
+654,Ignacio ,2026-07-14,Omar Garcia ,Sin Telefono,Activo ,0.5,1.0,0.0,0.0,Nayeli ,No responde,No responde,No responde,No responde,No responde
+655,Ignacio ,2026-07-13,Rosaura Mendez Quechol ,Sin Telefono,Activo ,1.0,0.0,0.0,1.0,Mauricio ,No responde,No responde,No responde,No responde,No responde
+656,Ana,2026-07-14,Alfonso f,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Nayeli,No responde,No responde,No responde,No responde,No responde
+657,Ana,2026-07-10,Lizbeth Garcia,Sin Telefono,Activo,0.7,1.0,0.0,0.0,Julio,No responde,No responde,No responde,No responde,No responde
+658,Ana ,2026-07-11,Mike Mora,Sin Telefono,Activo,0.9,0.0,1.0,0.0,Alfredo,No responde,No responde,No responde,No responde,No responde
+659,Ana,2026-07-14,Azucena de Jesus machorro arreola,Sin Telefono,Activo,1.0,1.0,1.0,0.0,Nayeli,No responde,No responde,No responde,No responde,No responde
+660,Ana,2026-07-13,Jose F,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Sin Asesor,No responde,No responde,No responde,No responde,No responde
+661,Ana,2026-07-16,Daniel Padilla,Sin Telefono,Activo,0.9,1.0,1.0,0.0,Fernanda,No responde,No responde,No responde,No responde,No responde
+662,Ana,2025-07-16,Juan Carazo Juan Carazo,Sin Telefono,Activo,0.8,0.0,0.0,0.0,Pedro,No responde,No responde,No responde,No responde,No responde
+663,Ana,2026-07-16,MARIBEL BARRON,Sin Telefono,Activo,0.9,1.0,0.0,0.0,Mario,No responde,No responde,No responde,No responde,No responde
+664,Igancio ,2026-07-17,Bernardo Ayuso ,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Nayeli ,No responde,No responde,No responde,No responde,No responde
+665,Ignacio ,2026-07-16,Victor Garcai ,Sin Telefono,Sin Estatus,0.8,0.0,0.0,0.0,Alfredo ,No responde,No responde,No responde,No responde,No responde
+666,Ignacio ,2026-07-18,Johancarlo Islas ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Julio Cesar ,No responde,No responde,No responde,No responde,No responde
+667,Ana,2026-07-16,Margaret Silva Serrano,Sin Telefono,Activo,0.8,1.0,0.0,0.0,Nayeli,No responde,No responde,No responde,No responde,No responde
+668,Ignacio ,2026-07-21,Carlos Balderrama ,Sin Telefono,Activo ,0.5,1.0,1.0,1.0,Mario Varela ,No responde,No responde,No responde,No responde,No responde
+669,Ignacio ,2026-07-21,Andrés Netzahuatl ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Mauricio ,No responde,No responde,No responde,No responde,No responde
+670,Ana,2026-07-22,Arat Israel,Sin Telefono,Activo,80.0,1.0,1.0,0.0,Aurelio,No responde,No responde,No responde,No responde,No responde
+671,Ana,2026-07-22,Maira Escalante,Sin Telefono,Activo ,0.8,1.0,1.0,0.0,Pedro Antonio,No responde,No responde,No responde,No responde,No responde
+672,Ignacio ,2026-07-22,Zaira Macip ,Sin Telefono,Activo ,0.5,0.0,0.0,0.0,Aurelio ,No responde,No responde,No responde,No responde,No responde
+673,Ignacio ,2026-07-27,Julio Hernandez ,Sin Telefono,Activo ,0.5,1.0,0.0,0.0,Victor ,No responde,No responde,No responde,No responde,No responde
+674,Ignacio ,2026-07-24,Xhunaxhi Vicente ,Sin Telefono,Activo ,1.0,1.0,1.0,1.0,Ignacio,No responde,No responde,No responde,No responde,No responde
+675,Ignacio ,2026-07-29,DR Jairo Rodriguez Farias ,Sin Telefono,Activo ,1.0,1.0,1.0,1.0,Victor ,No responde,No responde,No responde,No responde,No responde
